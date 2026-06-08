@@ -1,2 +1,10 @@
 # Player-Performance-Tracker
-This program allows users to log and analyze their own player performance data using queries
+	In this project, I will be constructing a program called Player Performance Tracker that allows users to log and analyze their own player performance data.  For example, a basketball player has been recording the number of shots made, rebounds, or assists and calculating their overall percentage in their respected category.  This program should focus on inputting and storing performance stats, and then we can use this to analyze the data to see if the player is performing better, staying consistent, or underperforming.
+	I chose this topic because I used to analyze player stats but never created a program that does it.  I am a fan of the NBA and NFL, but I will be focusing more on the NBA stats for this project and if I do have extra time, I will be inputting NFL player stats as well and making different sections based off sports.  This project will help create necessary skills and opportunities for practice working with data structures and simple calculations while creating a useful program I can use down the road for my hobbies or in game betting.  
+
+## Pessimistic goal
+  Create a program that allows users to input stats for each game like points, attempts, etc.  The program will then calculate the averages and percentages of that specific stats and then will store the data in a file.  The goal is to implement a player’s stats and relation to a sport first and once it works correctly, I will implement more players and different categories of sport.
+
+## Optimistic goal
+  Expanding the project to includes graph and charts that can help users visualize the data and to show trends over a period.  This can also be used for comparing between different games and the program should have the ability to save and load data automatically for easy retrieval of data to compare.  And like I said in the beginning, I do want to implement different sport categories and multiple players if extra time gives.  Overall goal, 
+<img width="468" height="497" alt="image" src="https://github.com/user-attachments/assets/2c215c0b-d396-4619-b31f-2bfc696cd628" />

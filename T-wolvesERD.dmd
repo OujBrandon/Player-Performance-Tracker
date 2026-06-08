@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="T-wolvesERD" id="1F532282-02B5-7CBD-CD8E-EE47A10B79B3" version="3.5">
+<createdBy>brandonratsamy</createdBy>
+<createdTime>2025-12-05 22:45:39 UTC</createdTime>
+<ownerDesignName>T-wolvesERD</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1F532282-02B5-7CBD-CD8E-EE47A10B79B3</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="1D204179-532C-C2A5-08E6-7A12E4D9F383">
+<designStoragePath>/Sports_table</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="325B82BA-10BA-E595-4068-938FADF0399B">
+<designStoragePath>/Sports_table</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
